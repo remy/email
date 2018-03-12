@@ -1,0 +1,16 @@
+{
+  "name": "@remy/email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sudo PORT=25 node ."
+  },
+  "keywords": [],
+  "author": "Remy Sharp",
+  "license": "ISC",
+  "dependencies": {
+    "smtp-server": "^3.0.1"
+  }
+}
